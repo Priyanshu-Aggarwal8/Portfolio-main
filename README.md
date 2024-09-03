@@ -83,7 +83,7 @@ Don't forget to give the project a star! Thanks again!
 
 Feel free to reach out if you have any questions or suggestions:
 
-- Email: agarwalpriyanshu812@gmail.com
+- Email: agarwalpriyanshu812@gmail.com@gmail.com
 - LinkedIn: [Priyanshu Aggarwal](https://www.linkedin.com/in/priyanshuaggarwal)
 
 Thank you for visiting my portfolio!
