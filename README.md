@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sanajitjana/React-Portfolio.git
+   git clone https://github.com/priyanshu-aggarwal8/Portfolio-main.git
    cd React-Portfolio
 
    ```
@@ -86,7 +86,6 @@ Feel free to reach out if you have any questions or suggestions:
 
 - Email: mail.sanajitjana@gmail.com
 - LinkedIn: [Sanajit Jana](https://www.linkedin.com/in/sanajitjana01)
-- Portfolio: [Latest Portfolio](https://sanajitjana.github.io)
 
 Thank you for visiting my portfolio!
 
