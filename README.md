@@ -83,8 +83,8 @@ Don't forget to give the project a star! Thanks again!
 
 Feel free to reach out if you have any questions or suggestions:
 
-- Email: mail.sanajitjana@gmail.com
-- LinkedIn: [Sanajit Jana](https://www.linkedin.com/in/priyanshuaggarwal)
+- Email: agarwalpriyanshu812@gmail.com
+- LinkedIn: [Priyanshu Aggarwal](https://www.linkedin.com/in/priyanshuaggarwal)
 
 Thank you for visiting my portfolio!
 
